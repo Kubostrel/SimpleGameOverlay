@@ -39,3 +39,6 @@ This project is fully open-source — feel free to review the code before instal
 
 ## License
 MIT License — see [LICENSE](LICENSE) file for details.
+
+## Developer
+Hi. I'm Maxim, introduced as IVENIK.
