@@ -1,0 +1,11 @@
+﻿<Project Sdk="WixToolset.Sdk/7.0.0">
+
+	<PropertyGroup>
+		<AcceptEula>wix7</AcceptEula>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SimpleGameOverlay\SimpleGameOverlay.csproj" />
+	</ItemGroup>
+
+</Project>
